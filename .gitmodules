@@ -1,0 +1,3 @@
+[submodule "aideck-esp-firmware"]
+	path = aideck-esp-firmware
+	url = https://github.com/IMRCLab/aideck-esp-firmware.git

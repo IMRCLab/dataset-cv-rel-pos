@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="297mm" height="210mm" viewBox="0 0 297 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="stroke:black; fill:none; stroke-width:0.5pt; stroke-linejoin:round; text-anchor:middle" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif">
+
+<g>
+
+<path d="M9.0,27.5 A15.5,15.5 0,0,1 24.5,12.0 A15.5,15.5 0,0,1 40.0,27.5 L40.0,43.0 L24.5,43.0 A15.5,15.5 0,0,1 9.0,27.5 " fill="black" stroke="none" />
+
+<path d="M9.0,89.5 A15.5,15.5 0,0,1 24.5,74.0 L40.0,74.0 L40.0,89.5 L40.0,105.0 L24.5,105.0 A15.5,15.5 0,0,1 9.0,89.5 " fill="black" stroke="none" />
+
+<path d="M9.0,151.5 A15.5,15.5 0,0,1 24.5,136.0 L40.0,136.0 L40.0,151.5 L40.0,167.0 L24.5,167.0 A15.5,15.5 0,0,1 9.0,151.5 " fill="black" stroke="none" />
+
+<rect x="40.0" y="43.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="40.0" y="105.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<path d="M40.0,182.5 L40.0,167.0 L55.5,167.0 L71.0,167.0 L71.0,182.5 A15.5,15.5 0,0,1 55.5,198.0 A15.5,15.5 0,0,1 40.0,182.5 " fill="black" stroke="none" />
+
+<path d="M71.0,27.5 A15.5,15.5 0,0,1 86.5,12.0 A15.5,15.5 0,0,1 102.0,27.5 L102.0,43.0 L86.5,43.0 L71.0,43.0 L71.0,27.5 " fill="black" stroke="none" />
+
+<rect x="71.0" y="74.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="71.0" y="136.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="102.0" y="43.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="102.0" y="105.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<path d="M102.0,182.5 L102.0,167.0 L117.5,167.0 L133.0,167.0 L133.0,182.5 A15.5,15.5 0,0,1 117.5,198.0 A15.5,15.5 0,0,1 102.0,182.5 " fill="black" stroke="none" />
+
+<path d="M133.0,27.5 A15.5,15.5 0,0,1 148.5,12.0 A15.5,15.5 0,0,1 164.0,27.5 L164.0,43.0 L148.5,43.0 L133.0,43.0 L133.0,27.5 " fill="black" stroke="none" />
+
+<rect x="133.0" y="74.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="133.0" y="136.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="164.0" y="43.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="164.0" y="105.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<path d="M164.0,182.5 L164.0,167.0 L179.5,167.0 L195.0,167.0 L195.0,182.5 A15.5,15.5 0,0,1 179.5,198.0 A15.5,15.5 0,0,1 164.0,182.5 " fill="black" stroke="none" />
+
+<path d="M195.0,27.5 A15.5,15.5 0,0,1 210.5,12.0 A15.5,15.5 0,0,1 226.0,27.5 L226.0,43.0 L210.5,43.0 L195.0,43.0 L195.0,27.5 " fill="black" stroke="none" />
+
+<rect x="195.0" y="74.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="195.0" y="136.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="226.0" y="43.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<rect x="226.0" y="105.0" width="31.0" height="31.0" fill="black" stroke="none" />
+
+<path d="M226.0,182.5 L226.0,167.0 L241.5,167.0 L257.0,167.0 L257.0,182.5 A15.5,15.5 0,0,1 241.5,198.0 A15.5,15.5 0,0,1 226.0,182.5 " fill="black" stroke="none" />
+
+<path d="M257.0,27.5 A15.5,15.5 0,0,1 272.5,12.0 A15.5,15.5 0,0,1 288.0,27.5 A15.5,15.5 0,0,1 272.5,43.0 L257.0,43.0 L257.0,27.5 " fill="black" stroke="none" />
+
+<path d="M257.0,89.5 L257.0,74.0 L272.5,74.0 A15.5,15.5 0,0,1 288.0,89.5 A15.5,15.5 0,0,1 272.5,105.0 L257.0,105.0 L257.0,89.5 " fill="black" stroke="none" />
+
+<path d="M257.0,151.5 L257.0,136.0 L272.5,136.0 A15.5,15.5 0,0,1 288.0,151.5 A15.5,15.5 0,0,1 272.5,167.0 L257.0,167.0 L257.0,151.5 " fill="black" stroke="none" />
+
+<circle cx="272.5" cy="182.50000000000003" r="5.2700000000000005" fill="black" stroke="none" />
+
+</g>
+
+</svg>
+
