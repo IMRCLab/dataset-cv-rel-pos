@@ -13,3 +13,6 @@
 [submodule "baselines/yolov3"]
 	path = baselines/yolov3
 	url = https://github.com/IMRCLab/yolov3.git
+[submodule "baselines/deepMulti_robot"]
+	path = baselines/deepMulti_robot
+	url = https://github.com/IMRCLab/deepMulti-robot.git
