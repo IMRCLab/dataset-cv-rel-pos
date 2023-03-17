@@ -1,0 +1,22 @@
+1     # version
+512   # buffer size in bytes
+cf231_  # file name
+0     # enable on startup (0/1)
+on:fixedFrequency
+250     # frequency
+1     # mode (0: disabled, 1: synchronous stabilizer, 2: asynchronous)
+stateEstimate.x
+stateEstimate.y
+stateEstimate.z
+stateEstimate.qx
+stateEstimate.qy
+stateEstimate.qz
+stateEstimate.qw
+on:estPose
+locSrv.x
+locSrv.y
+locSrv.z
+locSrv.qx
+locSrv.qy
+locSrv.qz
+locSrv.qw

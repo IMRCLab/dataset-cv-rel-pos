@@ -1,0 +1,18 @@
+[submodule "aideck-esp-firmware"]
+	path = aideck-esp-firmware
+	url = https://github.com/IMRCLab/aideck-esp-firmware.git
+[submodule "aideck-gap8-examples"]
+	path = aideck-gap8-examples
+	url = https://github.com/IMRCLab/aideck-gap8-examples.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/IMRCLab/crazyflie-firmware.git
+[submodule "baselines/deepMulti-robot"]
+	path = baselines/deepMulti_robot/
+	url = https://github.com/IMRCLab/deepMulti-robot.git
+[submodule "baselines/yolov3"]
+	path = baselines/yolov3
+	url = https://github.com/IMRCLab/yolov3.git
+[submodule "baselines/deepMulti_robot"]
+	path = baselines/deepMulti_robot
+	url = https://github.com/IMRCLab/deepMulti-robot.git

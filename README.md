@@ -60,7 +60,6 @@ cfloader flash cf2.bin stm32-fw -w radio://0/80/2M
 
 Record images of the checkerboard 
 ```
-cd dataset-collection/real-data
 python3 data_collection_aideck.py -n  IP-ADDRESS -path PATH-TO-SAVE-IMAGES -id ROBOT-ID
 ```
 Get image and object points from images. All points are recorded into `img_obj_points.yaml` file. 
@@ -108,7 +107,7 @@ ros2 run cvmrs_ros random_flight
 This script converts raw data into synchronized, classifies images based on number of visible robots (0,1,2,etc.), and creates a single `dataset.ymal` file. If `keep_calib` is set to FALSE, then camera extrinsic parameters will be calculated again. After getting synchronized data, dataset will be filtered by excluding frames
 with very wrong labels. 
 ```
-python3 postprocess.py PATH-TO-FOLDER --keep_calib TRUE or FALSE
+python3 postprocess.py PATH-TO-FOLDER --keepcalib 
 ```
 Merging dataset from several folders is possible
 ```
@@ -120,7 +119,7 @@ python3 dataset_filter.py PATH-TO-INPUT-FILE PATH-TO-OUTPUT-FILE -n LIST-OF-ROBO
 ```
 Get statistics of a particular `dataset.yaml`
 ```
-python3 dataset_stats.py PATH-TO-YAML-FILE
+python3 dataset_stats.py PATH-TO-FILE
 ```
 
 ## 4. Model training, inference
