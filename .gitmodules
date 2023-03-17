@@ -8,7 +8,7 @@
 	path = crazyflie-firmware
 	url = https://github.com/IMRCLab/crazyflie-firmware.git
 [submodule "baselines/deepMulti-robot"]
-	path = baselines/deepMulti-robot
+	path = baselines/deepMulti_robot/
 	url = https://github.com/IMRCLab/deepMulti-robot.git
 [submodule "baselines/yolov3"]
 	path = baselines/yolov3

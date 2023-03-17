@@ -17,8 +17,7 @@ from baselines.deepMulti_robot.train import train as locanet_train
 
 def train(dataset_yaml, model_name, backends, initial_model):
 
-    models_folder = Path(__file__).parent / "models"
-
+    models_folder = (Path(__file__).parent / "models").absolute()
     for backend in backends:
         if backend == "yolo":
       
@@ -39,7 +38,7 @@ def train(dataset_yaml, model_name, backends, initial_model):
                     "python3", "train.py",
                     "--img", str(320),
                     "--batch", str(8),
-                    "--epochs", str(50),
+                    "--epochs", str(1),
                     "--exist-ok",
                     "--data", str(Path(tmpdirname) / "cfg.yaml"),
                     "--project", str(models_folder / "yolo"),
@@ -74,7 +73,7 @@ def train(dataset_yaml, model_name, backends, initial_model):
                     'TRAIN_LR_INIT': 1e-3,
                     'TRAIN_LR_END': 1e-6,
                     'TRAIN_WARMUP_EPOCHS': 2,
-                    'TRAIN_EPOCHS': 50,
+                    'TRAIN_EPOCHS': 1,
                     'OUTPUT_FILE': model_name,
                     'WEIGHT_PATH': str(models_folder / "locanet") + "/",
                     'INITIAL_WEIGHTS': str(initial_weights),
