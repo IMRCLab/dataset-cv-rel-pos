@@ -4,7 +4,7 @@ We propose to use the often ignored yaw degree-of-freedom of multirotors to spin
 monocular camera at a high angular rate for omnidirectional awareness. We provide a dataset collected with real-world
 physical flights as well as with 3D-rendered scenes and compare two existing learning-based methods in different settings
 with respect to success rate, relative position estimation, and downwash prediction accuracy. \
-[Paper on arXiv](http://arxiv.org/abs/2303.03898) and [Video](https://youtu.be/DTKB0QzB2Qk) are available.
+[Paper on arXiv](http://arxiv.org/abs/2303.03898) and [Video](https://youtu.be/_Bhw4Qe_gBM) are available.
 ## Data Collection
 Our dataset consists of the following: 
 * gray-scale images (320×320)
